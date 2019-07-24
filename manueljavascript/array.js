@@ -1,7 +1,7 @@
 let favouriteSongs = [
-    "Cool & Gang - Fresh"
-    "Roxette - My life"
-   "Scorpions - Window of change
+    "Cool & Gang - Fresh",
+    "Roxette - My life",
+   "Scorpions - Window of change",
    ];
 
    favouriteSongs[2] = "Bob Marley - One Love"
@@ -11,7 +11,7 @@ let favouriteSongs = [
    favouriteSongs.push(Big - Missing You);
    console.log(favouriteSongs);
 
-   favouriteSongs.pop(Carlos Santa - Maria)
+   favouriteSongs.pop(Carlos Santana - Maria)
    console.log(favouriteSong);
 
    /*
@@ -30,7 +30,6 @@ let favouriteSongs = [
    console.log(favWebsite);
    
    */
-  
 
 
 

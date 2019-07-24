@@ -36,7 +36,7 @@ let favFilms = [
  }
 
  //Activity
- 
+
  let cards = ["Diamond", "Spade", "Heart", "Club"];
  let currentCard = "Spade";
  while(currentCard != "Spade"){
@@ -47,5 +47,15 @@ let favFilms = [
 
 // Activity
 
-const filmCheck = 
+const filmCheck = () => {
+    if (favFilms[2] == "Ghostbusters") {
+        console.log("Yay it's Ghostbusters");
+    } else {
+        console.log("Booo, we want Ghostbusters");
+    }
+};
+filmCheck();
+
+
+ 
 
